@@ -9,11 +9,11 @@ https://github.com/RockstarLang/rockstar
 ## CD1
 ![Title](https://codewithrockstar.com/media/wallpaper/def_leppard_hd_wallpaper.png "Rockstar Developer") 
 
-1 - Intro                0:17
+1 'Intro                0:17'
 
-2 - Music Is True        2:31
+2 'Music Is True        2:31'
 
-3 - All Over Again      10:25
+3 'All Over Again      10:25'
 
 ## Online Player
 
